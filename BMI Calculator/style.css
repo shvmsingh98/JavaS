@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+h1{
+    position: relative;
+    left: 70px;
+    padding-left: 15px;
+    padding-top: 25px;
+        
+    
+}
+#height,
+#weight
+{width: 150px;
+  height: 25px;
+  margin-top: 30px;
+}
+input[type=text]{
+    /* width: 100px; */
+    margin: 20px;
+}
+input[type=submit]{
+    /* width: 20px; */
+    position: relative;
+    left: 175px;
+
+}
+label{
+    margin: 20px;
+}
+#results {
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: rgb(241, 241, 241);
+  }
